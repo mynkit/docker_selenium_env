@@ -13,6 +13,7 @@ docker-compose up -d
 ```
 
 * dockerサーバに入る
+	* chromedriverのpathは`/usr/local/bin/chromedriver`
 
 ```sh
 docker-compose exec scraping sh
