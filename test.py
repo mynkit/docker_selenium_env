@@ -1,7 +1,8 @@
 '''selenium環境が正しくできているか確認するためのスクリプト
 
 Usage:
-    # python3 test.py
+    # python3 test.py # docker環境内で実行する場合
+    $ docker-compose run scraping python3 test.py # local環境で実行する場合
 
 Google
 Google
